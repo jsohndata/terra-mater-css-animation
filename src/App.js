@@ -19,7 +19,8 @@ function App() {
     <>
       <HashRouter>
         <NavMenu />
-        <Header />        
+        <Header />
+
         <Routes>          
           <Route path="/page1" element={<Page1 />} />
           <Route path="/page2" element={<Page2 />} />
@@ -28,6 +29,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
+        
         <Footer />
       </HashRouter>
     </>
