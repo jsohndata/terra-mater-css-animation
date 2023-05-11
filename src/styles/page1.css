@@ -18,25 +18,48 @@
 
 
 .scale:hover {
-  transform: scale(1.2);  
+  transform: scale(1.2);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square1.webp");
+  background-blend-mode: color;
 }
 
 .scale-x:hover {
   transform: scaleX(1.3);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square2.png");
+  background-blend-mode: color;
+  background-position: center;
 }
 
 .rotate:hover {
   transform: rotate(65deg);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square3.png");
+  background-blend-mode: color;
+  background-position: center;  
 }
 
 .skew:hover {
   transform: skew(-23deg);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square4.png");
+  background-blend-mode: color;
+  background-position: center;   
 }
 
 .skew2:hover {
   transform: skew(-45deg, 40deg);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square5.png");
+  background-blend-mode: color;
+  background-position: center;    
 }
 
 .translate:hover {
   transform: translate(5px, 12px);
+  background-color: rgba(60, 34, 7, 0.498);
+  background-image: url("../../public/images/square6.png");
+  background-blend-mode: color;
+  background-position: center;     
 }

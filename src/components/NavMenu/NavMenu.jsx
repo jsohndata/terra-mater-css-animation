@@ -6,7 +6,7 @@ export default function NavMenu() {
   return (
     <Navbar>
       <Container>
-        <Navbar.Brand href="/home">Home</Navbar.Brand>
+        <Navbar.Brand href="/css-animation">Home</Navbar.Brand>
 
         <Nav>      
           <Nav.Item>
@@ -23,6 +23,10 @@ export default function NavMenu() {
 
           <Nav.Item>
             <Nav.Link as={Link} to="/page4">Page4</Nav.Link>
+          </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link as={Link} to="/page5">Page5</Nav.Link>
           </Nav.Item>
         </Nav>
       </Container>

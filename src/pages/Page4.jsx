@@ -49,7 +49,7 @@ export default function Page4() {
 
           <Col>
             <div className="profile">
-              <img src={imgRoot+"pict3.webp"} alt="profile" />
+              <img src={imgRoot+"profile3.webp"} alt="profile" />
 
               <div className="profile-text">
                 <h3>Ticket to <br />Sirius B</h3>

@@ -1,17 +1,38 @@
 body {
-  background-color: rgb(227, 239, 229);
+  background-color: rgba(2, 23, 6, 0.895);
+  background-image: url("../../public/images/bg1.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;  
+
+  transition: 0.3s ease-in-out;
+  background-blend-mode: color;
+  color: rgb(234, 243, 224);
+  font-size: 1.3rem;
+  font-weight: 100;
+  letter-spacing: 1.2px;
+}
+
+.navbar-brand,
+.nav-link {
+  color: rgb(234, 243, 224);
+}
+
+.navbar-brand {
+  font-weight: 400;
 }
 
 h1 {
   font-size: clamp(4rem, 4vw, 6rem);
-  color: rgb(159, 188, 164);
+  color: rgb(228, 73, 255);
   font-weight: 100;
   margin-top: 20px;
 }
 
 h2 {
   font-size: 2rem;
-  color: rgb(159, 188, 164);
+  color: rgb(21, 255, 232);
   font-weight: 400;  
   margin-bottom: 40px;
 }
