@@ -26,7 +26,7 @@ export default function Page4() {
               <div className="profile-text">
                 <h3>Ticket to <br />Andromeda Galaxy</h3>
                 <p>2.5 million light-years</p>
-                <a href="/" 
+                <a href="https://notiempo.lol/mozartsghost/r" 
                   className="profile-button" 
                   rel="noreferrer">Buy Now!</a>
               </div>
@@ -40,7 +40,7 @@ export default function Page4() {
               <div className="profile-text">
                 <h3>Ticket to <br />Proxima Centauri</h3>
                 <p>4.246 light-years</p>
-                <a href="/" 
+                <a href="https://notiempo.lol/mozartsghost/r" 
                   className="profile-button" 
                   rel="noreferrer">Buy Now!</a>
               </div>
@@ -54,7 +54,7 @@ export default function Page4() {
               <div className="profile-text">
                 <h3>Ticket to <br />Sirius B</h3>
                 <p>8.611 light-years</p>
-                <a href="/" 
+                <a href="https://notiempo.lol/mozartsghost/r" 
                   className="profile-button" 
                   rel="noreferrer">Buy Now!</a>
               </div>
