@@ -7,7 +7,7 @@ export default function Page5() {
     <section className="boxcolor50">
         <Container>
           <Row>
-            <Col><h2>V. Position with KeyFrames</h2></Col>
+            <Col><h2 className="text-center text-lg-start">V. Position with KeyFrames</h2></Col>
           </Row>
 
           <Row>

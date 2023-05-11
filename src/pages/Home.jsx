@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <section>
       <Container>
-        <Row>
-          <Col>
-            <h2>h2: Disney's 12 Principle of Animation</h2>
+        <Row className="d-flex justify-content-center">
+          <Col xs={10} lg={12}>
+            <h2 className="text-center text-md-start">h2: Disney's 12 Principle of Animation</h2>
             <p><em>Illustion of Life</em> (1981) by Ollie Johnson and Frank Thomas</p>
             <ol>
               <li><strong className="text-danger">Squash and Streach</strong>: How a ball drops to the ground</li>

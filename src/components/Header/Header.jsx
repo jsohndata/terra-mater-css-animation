@@ -6,7 +6,7 @@ export default function Header() {
     <main>
       <Container>
         <Row>
-          <Col><h1>CSS Animation</h1></Col>
+          <Col><h1 className="text-center text-md-start">CSS Animation</h1></Col>
       </Row>
       </Container>
     </main>

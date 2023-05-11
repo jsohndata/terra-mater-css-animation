@@ -7,11 +7,11 @@ export default function Page3() {
     <section id="page3">
         <Container>
           <Row>
-            <Col><h2>III. Color Animation with KeyFrames</h2></Col>
+            <Col><h2 className="text-center text-lg-start">III. Color Animation with KeyFrames</h2></Col>
           </Row>
 
-          <Row>
-            <Col>
+          <Row className="d-flex justify-content-center">
+            <Col x={10}>
               <div className="boxcolor boxcolor1">
                 <p>CFBDSIR 1458 10b</p>
               </div>
