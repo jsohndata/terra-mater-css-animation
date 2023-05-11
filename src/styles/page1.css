@@ -4,7 +4,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(217, 94, 72);
+  background-color: rgba(217, 94, 72, 0.543);
+  border: 3px solid rgba(111, 255, 0, 0.246);
+  border-radius: 13px;
   transition: 0.3s ease-in-out;
   cursor: pointer;
   z-index: 2;
