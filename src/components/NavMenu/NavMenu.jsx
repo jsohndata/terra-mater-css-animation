@@ -6,7 +6,7 @@ export default function NavMenu() {
   return (
     <Navbar>
       <Container>
-        <Navbar.Brand href="/">Home</Navbar.Brand>
+        <Navbar.Brand href="/#">Home</Navbar.Brand>
 
         <Nav>      
           <Nav.Item>
