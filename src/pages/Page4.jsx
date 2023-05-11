@@ -9,7 +9,7 @@ export default function Page4() {
     <section id="page4">
       <Container>
         <Row>
-            <Col><h2>Page4: Button Hover</h2></Col>
+            <Col><h2>IV. Button Hover</h2></Col>
         </Row>        
 
         <Row>

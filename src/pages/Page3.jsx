@@ -7,19 +7,19 @@ export default function Page3() {
     <section id="page3">
         <Container>
           <Row>
-            <Col><h2>Page3: Color Animation with KeyFrames</h2></Col>
+            <Col><h2>III. Color Animation with KeyFrames</h2></Col>
           </Row>
 
           <Row>
             <Col>
               <div className="boxcolor boxcolor1">
-                <p>Box 1</p>
+                <p>CFBDSIR 1458 10b</p>
               </div>
             </Col>
 
             <Col>
               <div className="boxcolor boxcolor2">
-              <p>Box 1</p>
+              <p>UY Scuti</p>
               </div>
             </Col>
           </Row>

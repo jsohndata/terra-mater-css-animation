@@ -6,27 +6,27 @@ export default function NavMenu() {
   return (
     <Navbar>
       <Container>
-        <Navbar.Brand href="/css-animation">Home</Navbar.Brand>
+        <Navbar.Brand href="/css-animation">Terra Prime</Navbar.Brand>
 
         <Nav>      
           <Nav.Item>
-            <Nav.Link as={Link} to="/page1">Page1</Nav.Link>
+            <Nav.Link as={Link} to="/page1">I.</Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link as={Link} to="/page2">Page2</Nav.Link>
+            <Nav.Link as={Link} to="/page2">II.</Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link as={Link} to="/page3">Page3</Nav.Link>
+            <Nav.Link as={Link} to="/page3">III.</Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link as={Link} to="/page4">Page4</Nav.Link>
+            <Nav.Link as={Link} to="/page4">IV.</Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link as={Link} to="/page5">Page5</Nav.Link>
+            <Nav.Link as={Link} to="/page5">V.</Nav.Link>
           </Nav.Item>
         </Nav>
       </Container>

@@ -8,7 +8,7 @@ export default function Page2() {
     <section id="page2">
         <Container>
           <Row>
-            <Col><h2>Page2: Animation Timing Function Race</h2></Col>
+            <Col><h2>II. Animation Timing Function Race</h2></Col>
           </Row>
 
           <Row>

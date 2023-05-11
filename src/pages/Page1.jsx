@@ -7,7 +7,7 @@ export default function Page1() {
     <section id="page1">
         <Container>
           <Row className="g-5">
-            <Col><h2>Page 1: Transform</h2></Col>
+            <Col><h2>I. Transform</h2></Col>
           </Row>
 
           <Row className="g-5">
