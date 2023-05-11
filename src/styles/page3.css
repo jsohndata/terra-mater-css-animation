@@ -1,0 +1,39 @@
+.boxcolor {
+  width: 300px;
+  height: 300px;
+  background-color: solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boxcolor1 {
+  animation-name: bgcolorAnimate;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  transition: 0.3s ease-in-out;
+}
+
+@keyframes bgcolorAnimate {
+  from {background-color: red;}
+  to{background-color: yellow;}
+}
+
+.boxcolor2 {
+  animation-name: bgcolorAnimate2;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  transition: 0.3s ease-in-out;
+}
+
+@keyframes bgcolorAnimate2 {
+  0% {background-color: rgb(241, 104, 104) ;  border: 10px solid rgb(0, 128, 255);}
+  25% {background-color: yellow;  border: 10px solid rgb(0, 255, 166);}
+  35% {background-color: greenyellow;  border: 10px solid rgb(55, 0, 255);}
+  45% {background-color: green;  border: 10px solid rgb(217, 237, 66);}
+  55% {background-color: blue; transform:scale(1.5);  border: 10px solid rgb(50, 26, 26);}
+  65% {background-color: blueviolet; transform:rotate(145deg);  border: 10px solid rgb(78, 37, 125);}
+  75% {background-color: rgb(250, 82, 82); transform:rotate(-145deg);  border: 10px solid rgb(34, 207, 152);}
+  85% {background-color: pink; border: 10px solid red;}
+  100% {background-color:orchid;  border: 10px solid blue;}
+}

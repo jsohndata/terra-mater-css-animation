@@ -1,0 +1,43 @@
+.boxrace {
+  width: 24%;
+  height: 10vh;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  border: 3px solid rgb(152, 152, 249);
+  background-color:rgb(0, 255, 30);
+  position: relative;
+  animation: boxraceAnimate 12s linear 0.5s  normal infinite;
+    /*
+  • boxraceAnimate: animation name
+  • 5s: duration
+  • linear timing-function: ease | ease-in | ease-out | ease-in-out | linear | step-start | step-end
+  • 0.5s: delay
+  • 1 iteration-count (can be 'infinite')
+  • normal: normal | reverse | alternate | alternate-reverse
+  */
+}
+
+.race1 {animation-timing-function: linear;}
+.race2 {animation-timing-function: ease;}
+.race3 {animation-timing-function: ease-in;}
+.race4 {animation-timing-function: ease-out;}
+.race5 {animation-timing-function: ease-in-out;}
+
+@keyframes boxraceAnimate {
+  0%   { left: -400px;  }
+  20%  { left: -400px; }
+  25%  { left: 10px; background-color: rgb(96, 103, 104); }
+  40%  { left: 10px;  box-shadow: 0px 0 10px rgba(177, 29, 203, 0.256);}
+  45%  { background-color: rgb(222, 70, 36); }
+  50%  { background-color: blueviolet; box-shadow: -40px 0 10px rgba(177, 29, 203, 0.256); }
+  65%  { left: 75%; background-color: rgb(71, 150, 207); box-shadow: 0px 0 20px rgb(142, 175, 185);  }
+  90%  { left: 75%; background-color: rgb(71, 207, 85); box-shadow: 0px 0 20px rgb(142, 175, 185);  }
+  95%  { left: 75%; background-color: rgb(89, 207, 71); box-shadow: 0px 0 20px rgb(142, 175, 185);  }
+  99%  { left: 110%; background-color: rgb(207, 110, 71);   }
+  100% { left: 110%;  }
+  
+
+}

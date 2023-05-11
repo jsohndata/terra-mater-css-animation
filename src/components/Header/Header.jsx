@@ -1,8 +1,14 @@
+import {Container, Row, Col} from 'react-bootstrap';
+
 export default function Header() {
 
   return (
     <main>
-      <h1>h1: Header</h1>
+      <Container>
+        <Row>
+          <Col><h1>CSS Animation</h1></Col>
+      </Row>
+      </Container>
     </main>
   )
 }

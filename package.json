@@ -2,8 +2,10 @@
   "name": "css-animation",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jsohndata.github.io/css-animation",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",

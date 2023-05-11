@@ -16,6 +16,14 @@ export default function NavMenu() {
           <Nav.Item>
             <Nav.Link as={Link} to="/page2">Page2</Nav.Link>
           </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link as={Link} to="/page3">Page3</Nav.Link>
+          </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link as={Link} to="/page4">Page4</Nav.Link>
+          </Nav.Item>
         </Nav>
       </Container>
     </Navbar>    
