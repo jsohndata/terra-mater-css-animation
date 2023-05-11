@@ -6,7 +6,7 @@ export default function NavMenu() {
   return (
     <Navbar>
       <Container>
-        <Navbar.Brand href="/css-animation">Terra Prime</Navbar.Brand>
+        <Navbar.Brand href="/css-animation">Terra Mater</Navbar.Brand>
 
         <Nav>      
           <Nav.Item>

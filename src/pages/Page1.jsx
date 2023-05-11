@@ -11,41 +11,41 @@ export default function Page1() {
           </Row>
 
           <Row className="g-5 d-flex justify-content-center">
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box scale">
                 <p className="text-white">Scale</p>
               </div>
             </Col>
 
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box scale-x">
                 <p className="text-center text-white"> Scale X
                 </p>
               </div>
             </Col>
 
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box rotate">
                 <p className="text-center text-white"> 
                 Rotate
                 </p>
               </div>
             </Col>
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box skew">
                 <p className="text-center text-white"> 
                 Skew
                 </p>
               </div>
             </Col>
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box skew2">
                 <p className="text-center text-white"> 
                 Skew
                 </p>
               </div>
             </Col>
-            <Col xs={10} md={4}>
+            <Col xs={8} md={4}>
               <div className="box translate">
                 <p className="text-center text-white"> 
                 Translate
