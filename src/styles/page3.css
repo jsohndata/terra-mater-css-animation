@@ -15,25 +15,25 @@
 }
 
 @keyframes bgcolorAnimate {
-  from {background-color: red;}
-  to{background-color: yellow;}
+  from {background-color: rgb(73, 201, 237);}
+  to{background-color: rgb(183, 107, 57);}
 }
 
 .boxcolor2 {
   animation-name: bgcolorAnimate2;
-  animation-duration: 3s;
+  animation-duration: 7s;
   animation-iteration-count: infinite;
   transition: 0.3s ease-in-out;
 }
 
 @keyframes bgcolorAnimate2 {
-  0% {background-color: rgb(241, 104, 104) ;  border: 10px solid rgb(0, 128, 255);}
-  25% {background-color: yellow;  border: 10px solid rgb(0, 255, 166);}
-  35% {background-color: greenyellow;  border: 10px solid rgb(55, 0, 255);}
-  45% {background-color: green;  border: 10px solid rgb(217, 237, 66);}
-  55% {background-color: blue; transform:scale(1.5);  border: 10px solid rgb(50, 26, 26);}
+  0% {background-color: rgb(241, 104, 104) ;  border: 10px solid rgb(0, 128, 255); transform: scale(0.01); border-radius: 0% }
+  25% {background-color: rgb(146, 209, 223);  border: 10px solid rgb(0, 255, 166); }
+  35% {background-color: greenyellow;  border: 10px solid rgb(55, 0, 255); transform:rotate(1130deg);}
+  45% {background-color: green;  border: 10px solid rgb(217, 237, 66); transform:rotate(-20deg); border-radius: 50%;}
+  55% {background-color: rgb(114, 49, 151); border: 10px solid rgb(50, 26, 26);  transform: scale(1.5);}
   65% {background-color: blueviolet; transform:rotate(145deg);  border: 10px solid rgb(78, 37, 125);}
-  75% {background-color: rgb(250, 82, 82); transform:rotate(-145deg);  border: 10px solid rgb(34, 207, 152);}
-  85% {background-color: pink; border: 10px solid red;}
-  100% {background-color:orchid;  border: 10px solid blue;}
+  75% {background-color: rgb(250, 82, 82); transform:rotate(-15deg);  border: 10px solid rgb(34, 207, 152); border-radius: 0%;}
+  85% {background-color: pink; border: 10px solid red; border-radius: 10%; }
+  100% {background-color:orchid;  border: 10px solid blue;  transform: scale(0.01);}
 }
