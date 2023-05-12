@@ -35,7 +35,7 @@
 }
 
 .rotate:hover {
-  transform: rotate(65deg);
+  transform: rotate(335deg);
   background-color: rgba(60, 34, 7, 0.498);
   background-image: url("../../public/images/square3.png");
   background-blend-mode: color;
@@ -51,7 +51,7 @@
 }
 
 .skew2:hover {
-  transform: skew(-45deg, 40deg);
+  transform: skew(-25deg, 20deg);
   background-color: rgba(60, 34, 7, 0.498);
   background-image: url("../../public/images/square5.png");
   background-blend-mode: color;
@@ -59,7 +59,7 @@
 }
 
 .translate:hover {
-  transform: translate(5px, 12px);
+  transform: translate(15px, -52px);
   background-color: rgba(60, 34, 7, 0.498);
   background-image: url("../../public/images/square6.png");
   background-blend-mode: color;

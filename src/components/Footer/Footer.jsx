@@ -2,7 +2,7 @@ import {Container, Row, Col} from 'react-bootstrap';
 
 export default function Footer() {
 
-  const gitHubUrl = "https://github.com/jsohndata/css-animation";
+  const gitHubUrl = "https://github.com/jsohndata/terra-mater-css-animation";
   return (
     <footer>
       <Container>

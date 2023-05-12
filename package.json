@@ -2,7 +2,7 @@
   "name": "css-animation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jsohndata.github.io/css-animation",
+  "homepage": "https://jsohndata.github.io/terra-mater-css-animation",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gh-pages": "^5.0.0",
