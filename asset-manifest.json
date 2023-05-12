@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/css-animation/static/css/main.1d628f42.css",
-    "main.js": "/css-animation/static/js/main.1754a0a3.js",
-    "static/media/square5.png": "/css-animation/static/media/square5.993e1092ecbfbce10bd9.png",
-    "static/media/square2.png": "/css-animation/static/media/square2.7214c13ec4b88ab92faa.png",
-    "static/media/square3.png": "/css-animation/static/media/square3.fd4846119fad5e26141b.png",
-    "static/media/square6.png": "/css-animation/static/media/square6.d902a8a8a10b16994c5e.png",
-    "static/media/square4.png": "/css-animation/static/media/square4.eebf475160ed981e30c7.png",
-    "static/media/bg1.jpg": "/css-animation/static/media/bg1.5acc0c950547e5709574.jpg",
-    "static/media/square1.webp": "/css-animation/static/media/square1.d351b1b85ec1c9db3786.webp",
-    "static/media/profile4.webp": "/css-animation/static/media/profile4.c9c6a8c110c40c89426e.webp",
-    "static/media/profile2.webp": "/css-animation/static/media/profile2.7b5b61b7900c01c64e56.webp",
-    "static/media/profile1.webp": "/css-animation/static/media/profile1.ac68a5ced400b69b81c1.webp",
-    "static/media/profile5.webp": "/css-animation/static/media/profile5.db14276720ddc049ff7b.webp",
-    "index.html": "/css-animation/index.html",
-    "main.1d628f42.css.map": "/css-animation/static/css/main.1d628f42.css.map",
-    "main.1754a0a3.js.map": "/css-animation/static/js/main.1754a0a3.js.map"
+    "main.css": "/terra-mater-css-animation/static/css/main.a33af36a.css",
+    "main.js": "/terra-mater-css-animation/static/js/main.d7410809.js",
+    "static/media/square5.png": "/terra-mater-css-animation/static/media/square5.993e1092ecbfbce10bd9.png",
+    "static/media/square2.png": "/terra-mater-css-animation/static/media/square2.7214c13ec4b88ab92faa.png",
+    "static/media/square3.png": "/terra-mater-css-animation/static/media/square3.fd4846119fad5e26141b.png",
+    "static/media/square6.png": "/terra-mater-css-animation/static/media/square6.d902a8a8a10b16994c5e.png",
+    "static/media/square4.png": "/terra-mater-css-animation/static/media/square4.eebf475160ed981e30c7.png",
+    "static/media/bg1.jpg": "/terra-mater-css-animation/static/media/bg1.5acc0c950547e5709574.jpg",
+    "static/media/square1.webp": "/terra-mater-css-animation/static/media/square1.d351b1b85ec1c9db3786.webp",
+    "static/media/profile4.webp": "/terra-mater-css-animation/static/media/profile4.c9c6a8c110c40c89426e.webp",
+    "static/media/profile2.webp": "/terra-mater-css-animation/static/media/profile2.7b5b61b7900c01c64e56.webp",
+    "static/media/profile1.webp": "/terra-mater-css-animation/static/media/profile1.ac68a5ced400b69b81c1.webp",
+    "static/media/profile5.webp": "/terra-mater-css-animation/static/media/profile5.db14276720ddc049ff7b.webp",
+    "index.html": "/terra-mater-css-animation/index.html",
+    "main.a33af36a.css.map": "/terra-mater-css-animation/static/css/main.a33af36a.css.map",
+    "main.d7410809.js.map": "/terra-mater-css-animation/static/js/main.d7410809.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d628f42.css",
-    "static/js/main.1754a0a3.js"
+    "static/css/main.a33af36a.css",
+    "static/js/main.d7410809.js"
   ]
 }
