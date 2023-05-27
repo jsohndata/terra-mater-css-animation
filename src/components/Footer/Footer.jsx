@@ -8,14 +8,14 @@ export default function Footer() {
       <Container>
         <Row>
           <Col className="text-center">          
-            <p><a href={gitHubUrl} target="_blank" rel="noreferrer" style={{"color": "brown", "textDecoration": "none" }}>Code in GitHub</a></p>
-
-            <p id="mozarts-ghost"><a href="https://notiempo.lol/mozartsghost/13"
-              alt="Click on it and press control-shift."
-              title="Click on it and press control-shift.">π</a></p>
+            <p><a href={gitHubUrl} target="_blank" rel="noreferrer" style={{"color": "brown", "textDecoration": "none" }}>Code in GitHub</a></p>            
           </Col>
       </Row>
       </Container>
+
+      <p id="mozarts-ghost"><a href="https://notiempo.lol/mozartsghost/13"
+        alt="Click on it and press control-shift."
+        title="Click on it and press control-shift.">π</a></p>
     </footer>
   )
 }
