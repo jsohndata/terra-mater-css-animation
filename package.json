@@ -5,7 +5,7 @@
   "homepage": "https://jsohndata.github.io/terra-mater-css-animation",
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "gh-pages": "^5.0.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",

@@ -13,7 +13,7 @@ export default function Footer() {
       </Row>
       </Container>
 
-      <p id="mozarts-ghost"><a href="https://notiempo.lol/mozartsghost/13"
+      <p id="mozarts-ghost"><a href="https://jsohndata.github.io/no-tiempo/mozartsghost?id=13"
         alt="Click on it and press control-shift."
         title="Click on it and press control-shift.">π</a></p>
     </footer>
