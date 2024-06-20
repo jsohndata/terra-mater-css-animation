@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/terra-mater-css-animation/static/css/main.2dcc236a.css",
-    "main.js": "/terra-mater-css-animation/static/js/main.448a26f0.js",
+    "main.js": "/terra-mater-css-animation/static/js/main.7e618c15.js",
     "static/media/square5.png": "/terra-mater-css-animation/static/media/square5.993e1092ecbfbce10bd9.png",
     "static/media/square2.png": "/terra-mater-css-animation/static/media/square2.7214c13ec4b88ab92faa.png",
     "static/media/square3.png": "/terra-mater-css-animation/static/media/square3.fd4846119fad5e26141b.png",
@@ -15,10 +15,10 @@
     "static/media/profile5.webp": "/terra-mater-css-animation/static/media/profile5.db14276720ddc049ff7b.webp",
     "index.html": "/terra-mater-css-animation/index.html",
     "main.2dcc236a.css.map": "/terra-mater-css-animation/static/css/main.2dcc236a.css.map",
-    "main.448a26f0.js.map": "/terra-mater-css-animation/static/js/main.448a26f0.js.map"
+    "main.7e618c15.js.map": "/terra-mater-css-animation/static/js/main.7e618c15.js.map"
   },
   "entrypoints": [
     "static/css/main.2dcc236a.css",
-    "static/js/main.448a26f0.js"
+    "static/js/main.7e618c15.js"
   ]
 }
